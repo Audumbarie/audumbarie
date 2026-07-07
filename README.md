@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Audumbari Ladgaonkar
 
-<!--
-**Audumbarie/audumbarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd Year Student at Indira University, Pune
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java, Python and Web Development
+- 💻 Interested in Software Development
+- 📚 Practicing Data Structures & Algorithms
+- 🎯 Looking for Internship Opportunities
+
+## 🛠️ Skills
+
+- C
+- C++
+- Java
+- Python
+- HTML
+- CSS
+
+## 📚 Currently Learning
+
+- Git & GitHub
+- SQL
+- Java DSA
+- Web Development
+
+## 📫 Connect with Me
+
+- 📧 Email: audumbariladgaonkar11@gmail.com
+
+⭐ Thanks for visiting my GitHub profile!
