@@ -98,6 +98,12 @@ Programming Fundamentals
 - Prepare for internship opportunities.
 - Continue learning new technologies.
 
----
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Audumbarie&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Audumbarie&layout=compact&theme=tokyonight)
+
 
 ⭐ Thanks for visiting my GitHub profile!
